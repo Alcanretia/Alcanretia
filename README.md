@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Engineering student at Chulalongkorn University (graduating in 2028)
-- 🌱 Currently learning: **e.g. system design, Docker, testing**
+- 🌱 Currently learning: **system design, Software engineering etiquette, testing**
 - 💼 Looking for: **internship in Software engineering**
 
 ## 🛠️ Tech Stack
@@ -18,7 +18,7 @@
 **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -27,6 +27,7 @@
 **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
