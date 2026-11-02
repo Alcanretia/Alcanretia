@@ -15,7 +15,7 @@
 
 ## 🚀 Featured Projects
 
-- **[dl-gg](https://dl-gg.vercel.app)** – a Deadlock stats site inspired by op.gg: hero tier rankings, build pages with an interactive chart, leaderboards, and player match history. Built with Next.js 15, TypeScript, and Recharts. ([live demo](https://dl-gg.vercel.app))
+- **[dl-gg](https://dl-gg.vercel.app)** – a Deadlock stats site inspired by op.gg: hero tier rankings, build pages with an interactive chart, leaderboards, and player match history. Built with Next.js 15, TypeScript, and Recharts. 
 - **CPFighting** – a top-down bullet hell game in pure Java and JavaFX, built around object-oriented design (abstract classes, interfaces, polymorphism).
 - **FinLover** – a team money-tracking app built for a software engineering course with Next.js, TypeScript, and MongoDB, using a layered backend architecture.
 
