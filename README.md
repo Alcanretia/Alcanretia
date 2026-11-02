@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kasidis Chatthong 👋</h1>
+<h1 align="center">Hi, I'm Kasidis Chatthong </h1>
 
 <p align="center">
   Computer Engineering student working on becoming a full-stack developer <br/>
@@ -7,19 +7,19 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 Computer Engineering student at Chulalongkorn University (graduating in 2028)
-- 🌱 Currently learning: **system design, Software engineering etiquette, testing, Go & socket programming**
-- 💼 Looking for: **internship in Software engineering**
+- Computer Engineering student at Chulalongkorn University (graduating in 2028)
+- Currently learning: **system design, Software engineering etiquette, testing, Go & socket programming**
+- Looking for: **internship in Software engineering**
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - **[dl-gg](https://dl-gg.vercel.app)** – a Deadlock stats site inspired by op.gg: hero tier rankings, build pages with an interactive chart, leaderboards, and player match history. Built with Next.js 15, TypeScript, and Recharts. 
 - **CPFighting** – a top-down bullet hell game in pure Java and JavaFX, built around object-oriented design (abstract classes, interfaces, polymorphism).
 - **FinLover** – a team money-tracking app built for a software engineering course with Next.js, TypeScript, and MongoDB, using a layered backend architecture.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages** : 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
